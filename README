@@ -1,4 +1,4 @@
-Attempts to add tags for publisher archiving policies from Sherpa/RoMEo (http://www.sherpa.ac.uk/romeo/) to items in a Zotero (http://www.zotero.org/) library based on ISSN.
+Attempts to add tags for publisher archiving policies from Sherpa/RoMEo (http://www.sherpa.ac.uk/romeo/) to items in a Zotero (http://www.zotero.org/) library based on ISSN or journal title. (Demo from code4lib 2012 lightning talk).
 
 Uses Zend Framework (http://framework.zend.com/)  HTTP client.
 
